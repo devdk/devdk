@@ -14,16 +14,7 @@ On-page SEO & off-page-SEO analyst.
 
 ### Languages and Tools
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript logo" height="50" width="60" /><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python logo" height="50" width="60" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c logo" height="50" width="60" />
-
-
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="figma logo" height="50" width="60" />
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="git" height="50" width="60" />
-
-
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript logo" height="50" width="60" /><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python logo" height="50" width="60" /><img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c logo" height="50" width="60" /><img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="figma logo" height="50" width="60" /><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="git" height="50" width="60" />
 ---
 ### Latest Blogs
 
