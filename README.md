@@ -13,9 +13,9 @@ On-page SEO & off-page-SEO analyst.
 ---
 
 ### Freelance Services
-<b>Frontend Devlopment</b>
-<b>WordPress Devlopment</b>
-<b>SEO</b>
+<b>Frontend Devlopment</b><br>
+<b>WordPress Devlopment</b><br>
+<b>SEO</b><br>
 <b>Content Writing</b>
 
 
