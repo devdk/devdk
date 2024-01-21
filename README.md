@@ -2,7 +2,7 @@
 
 A frontend web devloper and a web design enthusiast exploring figma , UI/UX.
 
-💻 My expertise lies in WordPress, React, TypeScript, and AWS, and I thrive on building user-friendly web applications and websites that exceed expectations. 
+💻 My expertise lies in React, TypeScript,Wordpress and AWS, and I thrive on building user-friendly web applications and websites that exceed expectations. 
 From concept to deployment, I revel in the entire development process.
 
 ---
