@@ -8,21 +8,22 @@ From concept to deployment, I revel in the entire development process.
 ---
 ### Social Links
 <a href="https://www.linkedin.com/in/okkdheeraj/" ><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="linkedin logo" height="50" width="80" /></a>
-<a href="https://twitter.com/okkdheeraj" ><img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" alt="twitter logo" height="50" width="80" /></a>
 ---
 
 ### Freelance Services
-<b>Frontend Devlopment</b><br>
+<b>Website Development</b><br>
 <b>WordPress Devlopment</b><br>
 <b>SEO</b><br>
-<b>Content Writing</b>
+<b>Shopify Design</b><br>
+<b>POWER BI Dashboard</b>
+
 
 
 ### Languages and Tools
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript logo" height="50" width="60" /><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python logo" height="50" width="60" /><img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c logo" height="50" width="60" /><img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="figma logo" height="50" width="60" /><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="git" height="50" width="60" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" alt="git" height="50" width="60" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" alt="git" height="50" width="60" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/woocommerce/woocommerce-original-wordmark.svg" alt="WooCommerce" height="50" width="60" /><img src="https://github.com/devicons/devicon/blob/master/icons/webflow/webflow-original.svg" alt="Webflow" height="50" width="60" /><img src="https://github.com/devicons/devicon/tree/master/icons/react" alt="React" height="50" width="60" /><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" height="50" width="60" /><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" height="50" width="60" /><img src="<img src="https://github.com/devicons/devicon/blob/master/icons/vercel/vercel-line-wordmark.svg" alt="Vercel" height="50" width="60"  alt="Vercel" height="50" width="60" /><img src="https://github.com/devicons/devicon/tree/master/icons/tailwindcss" alt="TailwindCSS" height="50" width="60" />
 
 ---
 ### Content Writing
