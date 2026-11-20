@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋 I'm Dheeraj</h1>
 
 <p align="center">
-  <strong>Web Developer</strong> | Freelancer<br>
+  <strong>Software Developer</strong> | AI Automation Engineer<br>
   🔧 MERN · WordPress · WooCommerce · Shopify · SEO<br>
   📢 I develop and design web applications that convert 💸
 </p>
